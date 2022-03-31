@@ -76,6 +76,11 @@ To show the remote path
 To list the all branchs in the repo
 --> git remote show origin
 
+To give the tag name
+--> git tag -a name -m "message"
+
+To view the tag name
+--> git tag
 
 
 
