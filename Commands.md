@@ -85,7 +85,8 @@ To give the tag name
 To view the tag name
 --> git tag
 
-
+To track all your recent gits
+--> git reflog
 
 ----->Important (Always create git ignore file to creat the limit while pushing the files) <---
 --> add the file names in .gitignore file
