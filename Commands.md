@@ -54,6 +54,9 @@ To delete the branch
 To change the working branch
 --> git checkout branch_name
 
+To fetch the remote branch
+--> git fetch origin <branch>
+
 To merge the branch to with master
 --> git merge branch_name  		//in master branch
 --> git merge --no-ff branch_name 	//to merge with different SHA value
