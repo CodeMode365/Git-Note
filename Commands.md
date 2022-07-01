@@ -44,6 +44,9 @@ To view the git difference
 To create branch
 --> git branch branch_name
 
+To view all pulled branch from git
+--> git branch -a
+
 To delete the branch
 --> git branch -d branch_name	//for merged branch only
 --> git branch -D branch_name 	//for non-merged branch
