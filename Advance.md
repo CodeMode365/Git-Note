@@ -13,7 +13,7 @@ git push origin master --force
  5) undo a commit with a new commit
 git revert commit-id
 
-## (Bonus Tip) //go to anyones repo and press -->
+## (Bonus Tip) //go to anyones repo and press --> .
 
 6) save a commit for later use without actually commiting
 git stash
@@ -45,5 +45,5 @@ git reset --hard origin/master
 15) clean random untracked file
 git clean -df
 
-16)to switch to recent working branch
+16) to switch to recent working branch
 git checkout -
