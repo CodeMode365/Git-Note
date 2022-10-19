@@ -5,33 +5,33 @@
 -->git commit --amend -m "message"
 
  3) add files to last commit
-git commit -amend -no-edit
+-->git commit -amend -no-edit
 
  4) overwrite history on remote
-git push origin master --force
+-->git push origin master --force
 
  5) undo a commit with a new commit
-git revert commit-id
+-->git revert commit-id
 
 ## (Bonus Tip) //go to anyones repo and press --> .
 
 6) save a commit for later use without actually commiting
-git stash
+-->git stash
 
 7) to add the stashed commit
-git stash pop
+-->git stash pop
 
 8) to save stashed commit for later use
-git stash save anyName
+-->git stash save anyName
 
 9) to view stashed list
-git stash list
+-->git stash list
 
 10) to work on stashed commit
-git stash apply indexOfStashed
+-->git stash apply indexOfStashed
 
 11) to set the root branch name
-git branch -M branchName
+-->git branch -M branchName
 
 12) to view commits in more readable way
 git log --graphy --oneline --decorate
