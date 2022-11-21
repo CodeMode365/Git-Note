@@ -43,10 +43,13 @@ git fetch origin
 git reset --hard origin/master
 
 15) clean random untracked file
-git clean -df
+--> git clean -df
 
 16) to switch to recent working branch
-git checkout -
+--> git checkout -
 
 17) to add a chunk of change(piece)
 --> git add -p "file_name"
+
+18) write described git commit
+--> git commit
