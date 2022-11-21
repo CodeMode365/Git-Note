@@ -47,3 +47,6 @@ git clean -df
 
 16) to switch to recent working branch
 git checkout -
+
+17) to add a chunk of change(piece)
+--> git add -p "file_name"
