@@ -1,6 +1,6 @@
 # Every Day commands for all git users
 
-1. Git clone  <p> -->clone the repo in local system from a remote branch </p></br> <pre><code>git clone <https://name-of-the-repository-links></code></pre>
+1. Git clone  <p> -->clone the repo in local system from a remote branch </p><pre><code>git clone <https://name-of-the-repository-links></code></pre>
 2. Git branch
 3. Git checkout
 4. Git status
