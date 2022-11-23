@@ -1,6 +1,6 @@
 # Every Day commands for all git users
 
-1. Git clone  \n -->clone the repo in local system
+1. Git clone  /n -->clone the repo in local system
 2. Git branch
 3. Git checkout
 4. Git status
