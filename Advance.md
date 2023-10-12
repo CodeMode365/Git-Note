@@ -53,3 +53,16 @@ git reset --hard origin/master
 
 18) write described git commit
 --> git commit
+
+    ## Branching
+19) Create a new branch
+--> git branch <branch_name>
+
+20) Visit another branch
+--> git checkout <branch_name>
+
+21) Soft delete branch
+--> git branch -d <branch_name>
+
+22) Hard delete branch
+--> git branch -D <branch_name>
