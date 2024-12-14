@@ -10,6 +10,3 @@
 8. Git pull <pre><code>git pull</code></pre>
 9. Git revert 
 10. Git merge <pre><code>git merge branch_name</code></pre>
-
-
-This is test line
