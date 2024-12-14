@@ -1,12 +1,12 @@
 Initialize empty git repo
 -->git init
 
-To configure: email and user.email 
+- To configure: email and user.email 
 ` git config --global user.email "username@example.com"`
-` git config --global user.name `
+` git config --global user.name `"yourname"
 
-To view the list of user
--->git config --list
+- To view the list of user
+` git config --list `
 
 To view the git status
 -->git status
