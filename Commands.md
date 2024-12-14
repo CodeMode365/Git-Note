@@ -3,7 +3,7 @@ Initialize empty git repo
 
 - To configure: email and user.email 
 ` git config --global user.email "username@example.com" `
-` git config --global user.name `"yourname" `
+` git config --global user.name "yourname" `
 
 - To view the list of user
 ` git config --list `
